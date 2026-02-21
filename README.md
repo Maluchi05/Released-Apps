@@ -1,7 +1,6 @@
 # Released-Apps
 This repository serves as a public showcase and distribution point for applications whose source code is maintained in private repositories for intellectual property protection and future commercialization.
 
-
 > Public showcase and distribution repository for production-grade applications.  
 > Core source code for each product is maintained in private repositories for intellectual property protection and commercial strategy.
 
@@ -11,9 +10,8 @@ This repository serves as a public showcase and distribution point for applicati
 
 ---
 
-## 1️⃣ FXGlobe
-
-A role-based trading signal ecosystem connecting providers and copiers in a structured and scalable platform.
+## 1️⃣ FX Globe
+A role-based trading signal ecosystem connecting providers and copiers in a structured and scalable platform. Supports multiple signal providers with subscriber management and real-time signal delivery.
 
 ### Tech Stack
 - Flutter
@@ -23,32 +21,48 @@ A role-based trading signal ecosystem connecting providers and copiers in a stru
 - GoRouter (Navigation)
 
 ### 📲 Download
-👉 https://github.com/YOUR-USERNAME/fxglobe-public/releases
+👉 [Download FX Globe](https://github.com/Maluchi05/Released-Apps/releases/tag/fxglobe-v1.0)
 
 ### 🎥 Demo Video
-🔗 https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/posts/FXGLOBE-VIDEO-LINK
+🔗 [Watch Demo](https://www.linkedin.com/in/nkaa-dim-maluchi/posts/FXGLOBE-VIDEO-LINK)
 
 ---
 
-## 2️⃣ Wonderverse
+## 2️⃣ FX Signals Pro
+A streamlined single-provider trading signal application. Built for individual signal providers to deliver clean, fast, and reliable trade signals to their subscribers.
 
-A children's interactive learning application inspired by early digital encyclopedias, designed for structured educational engagement.
+### Tech Stack
+- Flutter
+- Supabase (Database + RLS)
+- Firebase (Authentication + Push Notifications)
+- Riverpod (State Management)
+- GoRouter (Navigation)
+
+### 📲 Download
+👉 [Download FX Signals Pro](https://github.com/Maluchi05/Released-Apps/releases/tag/fxsignalspro-v1.0)
+
+### 🎥 Demo Video
+🔗 [Watch Demo](https://www.linkedin.com/posts/nkaa-dim-maluchi_flutter-firebase-fintech-ugcPost-7431081347059798018-5RkX)
+
+---
+
+## 3️⃣ Wonderverse
+A children's interactive learning application inspired by early digital encyclopedias, designed for structured and engaging educational experiences.
 
 ### Tech Stack
 - Flutter
 - Supabase (Auth, Database, Storage)
 
 ### 📲 Download
-👉 https://github.com/YOUR-USERNAME/wonderverse-public/releases
+👉 [Download Wonderverse](https://github.com/Maluchi05/Released-Apps/releases/tag/wonderverse-v1.0)
 
 ### 🎥 Demo Video
-🔗 https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/posts/WONDERVERSE-VIDEO-LINK
+🔗 [Watch Demo](https://www.linkedin.com/in/nkaa-dim-maluchi/posts/WONDERVERSE-VIDEO-LINK)
 
 ---
 
-## 3️⃣ Luchi Stores
-
-An engineering-focused ecommerce platform built to enable product browsing, ordering, and secure digital payments.
+## 4️⃣ Engineering Market
+An engineering-focused ecommerce platform built for product browsing, ordering, and secure digital payments within the engineering and technical space.
 
 ### Tech Stack
 - Flutter
@@ -56,17 +70,15 @@ An engineering-focused ecommerce platform built to enable product browsing, orde
 - Flutterwave (Payment Processing)
 
 ### 📲 Download
-👉 https://github.com/YOUR-USERNAME/luchi-stores-public/releases
+👉 [Download Engineering Market](https://github.com/Maluchi05/Released-Apps/releases/tag/engineeringmarket-v1.0)
 
 ### 🎥 Demo Video
-🔗 https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/posts/LUCHI-STORES-VIDEO-LINK
+🔗 [Watch Demo](https://www.linkedin.com/posts/nkaa-dim-maluchi_flutter-firebase-techjourney-ugcPost-7428190916840067073-1YUF)
 
 ---
 
 # 🏗 Architecture Philosophy
-
 All applications are built with:
-
 - Scalable backend architecture
 - Role-based access control where necessary
 - Production-ready state management
@@ -76,9 +88,7 @@ All applications are built with:
 ---
 
 # 🔐 Source Code Policy
-
 Production source code is maintained in private repositories.  
-
 If you are a recruiter, collaborator, or technical reviewer and would like a guided walkthrough of the architecture, feel free to reach out.
 
 nkaadimmaluchi@gmail.com
@@ -86,9 +96,7 @@ nkaadimmaluchi@gmail.com
 ---
 
 # 👤 Author
-
 **Nkaa-Dim Maluchi**
-
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
-- X: https://x.com/YOUR-USERNAME
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/nkaa-dim-maluchi
+- X: https://x.com/Maluchi05
+- Email: nkaadimmaluchi@gmail.com
