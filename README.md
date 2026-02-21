@@ -21,7 +21,7 @@ A role-based trading signal ecosystem connecting providers and copiers in a stru
 - GoRouter (Navigation)
 
 ### 📲 Download
-👉 [Download FX Globe](https://github.com/Maluchi05/Released-Apps/releases/tag/fxglobe-v1.0)
+👉 [Download FX Globe](https://github.com/Maluchi05/Released-Apps/releases/tag/FXGlobe1.0)
 
 ### 🎥 Demo Video
 🔗 [Watch Demo](https://www.linkedin.com/in/nkaa-dim-maluchi/posts/FXGLOBE-VIDEO-LINK)
