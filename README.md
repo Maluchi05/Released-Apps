@@ -46,7 +46,23 @@ A streamlined single-provider trading signal application. Built for individual s
 
 ---
 
-## 3️⃣ Wonderverse
+## 3️⃣ Luchi Stores (Engineering Market)
+A specialized ecommerce platform built for browsing, ordering, and purchasing engineering equipment, tools, and accessories. Designed to bring engineering procurement online with a clean product catalog, secure checkout, and reliable payment handling.
+
+### Tech Stack
+- Flutter
+- Firebase (Auth + Firestore + Cloud Messaging)
+- Flutterwave (Payment Processing)
+
+### 📲 Download
+👉 [Download Luchi Stores](https://github.com/Maluchi05/Released-Apps/releases/tag/engineeringmarket-v1.0)
+
+### 🎥 Demo Video
+🔗 [Watch Demo](https://www.linkedin.com/posts/nkaa-dim-maluchi_flutter-firebase-techjourney-ugcPost-7428190916840067073-1YUF)
+
+---
+
+## 4️⃣ Wonderverse
 A children's interactive learning application inspired by early digital encyclopedias, designed for structured and engaging educational experiences.
 
 ### Tech Stack
@@ -61,7 +77,7 @@ A children's interactive learning application inspired by early digital encyclop
 
 ---
 
-## 4️⃣ Engineering Market
+## 5️⃣ Engineering Market
 An engineering-focused ecommerce platform built for product browsing, ordering, and secure digital payments within the engineering and technical space.
 
 ### Tech Stack
