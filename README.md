@@ -75,31 +75,6 @@ A children's interactive learning application inspired by early digital encyclop
 ### 🎥 Demo Video
 🔗 [Watch Demo](https://www.linkedin.com/in/nkaa-dim-maluchi/posts/WONDERVERSE-VIDEO-LINK)
 
----
-
-## 5️⃣ Engineering Market
-An engineering-focused ecommerce platform built for product browsing, ordering, and secure digital payments within the engineering and technical space.
-
-### Tech Stack
-- Flutter
-- Firebase (Auth + Firestore)
-- Flutterwave (Payment Processing)
-
-### 📲 Download
-👉 [Download Engineering Market](https://github.com/Maluchi05/Released-Apps/releases/tag/engineeringmarket-v1.0)
-
-### 🎥 Demo Video
-🔗 [Watch Demo](https://www.linkedin.com/posts/nkaa-dim-maluchi_flutter-firebase-techjourney-ugcPost-7428190916840067073-1YUF)
-
----
-
-# 🏗 Architecture Philosophy
-All applications are built with:
-- Scalable backend architecture
-- Role-based access control where necessary
-- Production-ready state management
-- Clean UI/UX structure
-- Backend security configurations (RLS where applicable)
 
 ---
 
